@@ -13,4 +13,5 @@ class Shoe
 end
 
 grape_fives = Shoe.new("Jordan")
-grape_fives.initialize
+grape_fives.cobble
+
