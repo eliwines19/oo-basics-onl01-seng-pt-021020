@@ -15,3 +15,5 @@ end
 grape_fives = Shoe.new("Jordan")
 grape_fives.cobble
 puts grape_fives.condition
+grap_fives.color = "Purple and White"
+puts grape_fives.color
