@@ -14,4 +14,3 @@ end
 
 grape_fives = Shoe.new("Jordan")
 grape_fives.cobble
-
