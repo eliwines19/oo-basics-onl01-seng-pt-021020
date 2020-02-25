@@ -13,4 +13,4 @@ class Shoe
 end
 
 grape_fives = Shoe.new("Jordan")
-grape_fives.brand
+grape_fives.initialize
