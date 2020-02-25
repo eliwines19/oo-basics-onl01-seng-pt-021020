@@ -17,3 +17,5 @@ grape_fives.cobble
 puts grape_fives.condition
 grape_fives.color = "Purple and White"
 puts grape_fives.color
+grape_fives.size = "size 11"
+puts grape_fives.size
